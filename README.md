@@ -1,2 +1,7 @@
-# cordle-logo
-Cordle Logo
+# `Cordle Logo`
+
+The Cordle Logo.
+
+## *`types`*
+
+- png
